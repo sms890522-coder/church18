@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320" role="img" aria-labelledby="title desc">
+  <title id="title">은혜샘교회 로고</title>
+  <desc id="desc">십자가와 빛, 열린 문을 형상화한 자체 제작 교회 로고</desc>
+  <defs>
+    <linearGradient id="markGradient" x1="70" x2="250" y1="56" y2="264" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8a6a38"/>
+      <stop offset=".52" stop-color="#2f746f"/>
+      <stop offset="1" stop-color="#24476b"/>
+    </linearGradient>
+  </defs>
+  <rect width="320" height="320" rx="56" fill="#fbfaf6"/>
+  <path d="M160 38c55.2 0 100 44.8 100 100 0 44.5-29 82.1-69.1 95.1l-30.9 48.4-30.9-48.4C89 220.1 60 182.5 60 138 60 82.8 104.8 38 160 38z" fill="url(#markGradient)"/>
+  <path d="M148 79h24v55h43v23h-43v80h-24v-80h-43v-23h43V79z" fill="#fffdf7"/>
+  <path d="M110 234c20.8-18.2 37.5-27.4 50-27.4s29.2 9.2 50 27.4" fill="none" stroke="#fffdf7" stroke-width="15" stroke-linecap="round"/>
+  <path d="M117 92c-17 15.8-27 37.5-27 61.5 0 11.2 2.2 21.9 6.1 31.8" fill="none" stroke="#fffdf7" stroke-width="8" stroke-linecap="round" opacity=".34"/>
+</svg>
